@@ -1,0 +1,12 @@
+C:\Users\ivanm\source\repos\Module 10\Module 10\bin\Debug\Module 10.exe.config
+C:\Users\ivanm\source\repos\Module 10\Module 10\bin\Debug\Module 10.exe
+C:\Users\ivanm\source\repos\Module 10\Module 10\bin\Debug\Module 10.pdb
+C:\Users\ivanm\source\repos\Module 10\Module 10\bin\Debug\sfml-audio.dll
+C:\Users\ivanm\source\repos\Module 10\Module 10\bin\Debug\sfml-graphics.dll
+C:\Users\ivanm\source\repos\Module 10\Module 10\bin\Debug\sfml-system.dll
+C:\Users\ivanm\source\repos\Module 10\Module 10\bin\Debug\sfml-window.dll
+C:\Users\ivanm\source\repos\Module 10\Module 10\obj\Debug\Module 10.csproj.AssemblyReference.cache
+C:\Users\ivanm\source\repos\Module 10\Module 10\obj\Debug\Module 10.csproj.CoreCompileInputs.cache
+C:\Users\ivanm\source\repos\Module 10\Module 10\obj\Debug\Module 10.csproj.CopyComplete
+C:\Users\ivanm\source\repos\Module 10\Module 10\obj\Debug\Module 10.exe
+C:\Users\ivanm\source\repos\Module 10\Module 10\obj\Debug\Module 10.pdb
